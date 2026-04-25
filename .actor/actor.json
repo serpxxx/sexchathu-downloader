@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Sexchathu Downloader listing and downloader workflow.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "sexchathu-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Sexchathu Downloader",
+  "version": "0.0"
+}
