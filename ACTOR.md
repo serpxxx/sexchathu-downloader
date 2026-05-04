@@ -1,4 +1,4 @@
-# SexChatHU Downloader
+# SexChatHU Video Downloader | How to Download SexChatHU Videos
 
 > Record SexChatHU live streams and download saved videos as MP4 files for offline viewing.
 
