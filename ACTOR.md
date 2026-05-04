@@ -2,6 +2,12 @@
 
 > Record SexChatHU live streams and download saved videos as MP4 files for offline viewing.
 
+## Get it Here
+
+Get it here: https://serp.ly/sexchathu-video-downloader
+
+![SexChatHU Downloader](https://raw.githubusercontent.com/serpxxx/sexchathu-downloader/main/assets/workflow-preview.webp)
+
 SexChatHU Downloader is a browser extension built for users who want a cleaner way to keep SexChatHU live broadcasts and saved videos available outside the site. It detects supported video streams directly in the browser, lets you choose from available qualities, and saves finished captures as MP4 files that are easier to replay later.
 
 - Record active SexChatHU live streams while they are broadcasting
