@@ -1,7 +1,7 @@
 {
   "actorSpecification": 1,
   "buildTag": "latest",
-  "description": "Sexchathu Downloader listing and downloader workflow.",
+  "description": "SexChatHU Downloader records accessible SexChatHU streams and saves supported videos as MP4 files for authorized offline viewing.",
   "input": "./INPUT_SCHEMA.json",
   "name": "sexchathu-downloader",
   "readme": "../ACTOR.md",
